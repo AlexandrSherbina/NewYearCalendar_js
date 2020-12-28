@@ -3,7 +3,7 @@
     display: flex;
 }
 #wrapper-calendar { 
-    display: flex;
+    display: inline-flex;
 }
 .year-block {
     position: absolute;
